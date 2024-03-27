@@ -5,4 +5,5 @@
 3. git commit -m "primer commit"    => su priemer commit
 4. git checkout -- .                => que sirve para recuperar la fotografia archivo etc
 5. git log                          => para saver cuantos commit isiste
-6. git commit --amend               => para arreglar el ultimo commit 
+6. git commit --amend               => para arreglar el ultimo commit / para salir `Esc :wq! enter` 
+7. git checkout -b rama-heroe
