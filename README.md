@@ -11,3 +11,6 @@
 9. git branch                       => para saber si existe las ramas
 10. git branch -d rama-heroes       => para borrar una rama
 11. git merge                       => rama-heroe => para recuperar la rama. 
+12. git push 
+13. git commit -am                  => una manera de simplificar, add. commit -m etc.
+
