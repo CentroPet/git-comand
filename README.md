@@ -6,4 +6,5 @@
 4. git checkout -- .                => que sirve para recuperar la fotografia archivo etc
 5. git log                          => para saver cuantos commit isiste
 6. git commit --amend               => para arreglar el ultimo commit / para salir `Esc :wq! enter` 
-7. git checkout -b rama-heroe
+7. git checkout -b rama-heroe       => 
+8. git checkout master              => para cambiar a master
